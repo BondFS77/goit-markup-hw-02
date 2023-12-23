@@ -60,7 +60,7 @@ ol {
   text-align: center;
 }
 .hero-btn {
-  background-color: #4d5ae5;
+  background-color: #fff;
   font-family: Roboto, sans-serif;
   font-size: 16px;
   font-weight: 500;
@@ -157,7 +157,7 @@ ol {
 }
 .logo-pit {
   color: #4d5ae5;
-  font-family: Raleway sans-serif;
+  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
