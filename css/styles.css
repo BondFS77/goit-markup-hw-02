@@ -57,22 +57,28 @@ ol {
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
 }
 .hero-btn {
-  color: #fff;
+  background-color: #4d5ae5;
   font-family: Roboto, sans-serif;
   font-size: 16px;
   font-weight: 500;
-  line-height: normal;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
   cursor: pointer;
 }
 .hero-btn:hover,
 .hero-btn:focus,
 .hero-btn-active {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .features {
   background: #fff;
+}
+.features-headlines {
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 .features-subtitle {
   color: #2e2f42;
@@ -96,6 +102,10 @@ ol {
   line-height: 1.11; /* 111.111% */
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  text-align: center;
+}
+.team-list {
+  background-color: #fff;
 }
 .team-subtitle {
   color: var(--NAVY-BLUE, #2e2f42);
@@ -120,6 +130,7 @@ ol {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  text-align: center;
 }
 .portfolio-subtitle {
   color: var(--NAVY-BLUE, #2e2f42);
@@ -145,8 +156,8 @@ ol {
   letter-spacing: 0.02em;
 }
 .logo-pit {
-  color: var(--CLOUD, #f4f4fd);
-  font-family: Raleway;
+  color: #4d5ae5;
+  font-family: Raleway sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
@@ -154,5 +165,5 @@ ol {
   text-transform: uppercase;
 }
 .logo-part-pit {
-  color: var(--IRIS, #4d5ae5);
+  color: #f4f4fd;
 }
