@@ -60,7 +60,8 @@ ol {
   text-align: center;
 }
 .hero-btn {
-  background-color: #fff;
+  background-color: #4d5ae5;
+  color: #ffffff;
   font-family: Roboto, sans-serif;
   font-size: 16px;
   font-weight: 500;
@@ -105,7 +106,7 @@ ol {
   text-align: center;
 }
 .team-list {
-  background-color: #fff;
+  background-color: #ffffff;
 }
 .team-subtitle {
   color: var(--NAVY-BLUE, #2e2f42);
